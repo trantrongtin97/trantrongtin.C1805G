@@ -2,5 +2,7 @@
 
 # teacher infomation
 - Nguyen Duc Huy
-- fasgkldghvkabwklgblkawvf
-- hahahahaha
+
+# cac buoi hoc
+1. setup tool
+2. Labs of Google
